@@ -7,9 +7,9 @@ You can access it with the following links:
  - https://doi.org/10.1016/j.compmedimag.2021.101941 (journal version with restricted access)
  - https://doi.org/10.48550/arXiv.2207.05951 (accepted manuscript version, open access)
 
-The code in this repository deforms an original 3D image according to a certain deformation vector field (DVF), using Nadaraya-Watson regression. The two other repositories corresponding to the article mentioned above are the following:
+The code in this repository deforms an original 3D image according to a certain deformation vector field (DVF), using Nadaraya–Watson regression. The two other repositories corresponding to the article mentioned above are the following:
 
- - Lucas-Kanade pyramidal optical flow for 3D image sequences: https://github.com/pohl-michel/3D-Lucas-Kanade-optical-flow
+ - Lucas–Kanade pyramidal optical flow for 3D image sequences: https://github.com/pohl-michel/3D-Lucas-Kanade-optical-flow
  - time series prediction with an RNN trained with RTRL: https://github.com/pohl-michel/time-series-forecasting-rtrl
 
 Please kindly consider citing our published article if you use this code in your research. Also, please do not hesitate to look at the other two repositories mentioned above.
