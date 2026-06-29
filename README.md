@@ -1,3 +1,5 @@
+# 3D image warping with Nadaraya–Watson kernel regression
+
 This repository is the third of a series of three repositories containing code that we used in the research corresponding to the following article:
 
 Michel Pohl, Mitsuru Uesaka, Kazuyuki Demachi, Ritu Bhusal Chhatkuli, "Prediction of the motion of chest internal points using a recurrent neural network trained with real-time recurrent learning for latency compensation in lung cancer radiotherapy", Computerized Medical Imaging and Graphics, Volume 91, 2021, 101941, ISSN 0895-6111
